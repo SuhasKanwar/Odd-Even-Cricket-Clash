@@ -23,4 +23,4 @@ Win or Lose: The player with the most runs wins the game. If scores are equal, t
 
 
 ## Contributors
-Suhas Kanwar
+**Suhas Kanwar**
